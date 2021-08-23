@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Herbal Blog</title>
+	<title>Home</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Produk Disini Bisa COD (Bayar di Tempat)</description>
-	<lastBuildDate>Fri, 13 Aug 2021 15:28:02 +0000</lastBuildDate>
+	<description>Profile</description>
+	<lastBuildDate>Mon, 23 Aug 2021 07:41:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
